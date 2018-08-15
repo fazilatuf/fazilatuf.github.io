@@ -1,0 +1,52 @@
+h2{
+	color:black;
+	text-align:center;
+
+}
+a:link{
+	text-decoration: none;
+}
+table,th,td{background-color:white; border:none; border-collapse:collapse; padding: 20px; text-align:center}
+
+div{
+	color:white;
+	padding:10px;
+	background-color: #33cccc;
+	width:300px;
+	height:300px;
+	text-align:center;
+}
+
+.pic{
+	width:250px;	
+	height: 300px;
+ 	
+}	
+.title{
+	height:100px;
+	background-color: black;
+	color:white;
+}
+p{
+	font-size:25px;
+}
+#welcome{
+width:100%;
+}
+ul{
+	margin: 0px;
+	padding:0px;
+	width: 90px;
+	
+}
+ul li{
+	text-decoration: none;
+	background-color: #33cccc;
+	text-align:center;
+	display: block;
+}
+ul li a{
+	text-decoration: none;
+	color:white;
+}
+
